@@ -8,7 +8,7 @@
 </p>
 
 ## Laravel Convention
-- [HT Active Laravel Convention](https://www.notion.so/htactive/HT-Active-Laravel-Convention-6f01a6895a684d8384b0e6979a7ec1a4).
+
 
 ## About Laravel
 
